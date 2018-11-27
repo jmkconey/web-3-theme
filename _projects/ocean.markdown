@@ -8,7 +8,7 @@ excerpt: An ocean is a body of saline water
 
 An ocean is a body of saline water that composes much of a planet's hydrosphere. On Earth, an ocean is one of the major conventional divisions of the World Ocean. These are, in descemnnnding order by area, the Pacific, Atlantic, Indian, Southern, and Arctic Oceans.
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="6">
 <img src="/uploads/1.jpg">
 <img src="/uploads/2.jpg">
 <img src="/uploads/3.jpg">
