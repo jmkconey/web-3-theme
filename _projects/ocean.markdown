@@ -13,4 +13,9 @@ An ocean is a body of saline water that composes much of a planet's hydrosphere.
 <img src="/uploads/2.jpg">
 <img src="/uploads/3.jpg">
 <img src="/uploads/4.jpg">
+
+<img src="/uploads/1.jpg">
+<img src="/uploads/2.jpg">
+<img src="/uploads/3.jpg">
+<img src="/uploads/4.jpg">
 </div>
